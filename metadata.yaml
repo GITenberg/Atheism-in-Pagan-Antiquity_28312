@@ -1,0 +1,45 @@
+_repo: Atheism-in-Pagan-Antiquity_28312
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Andersen, Ingeborg
+    birthdate: 1887
+    gutenberg_agent_id: '33260'
+    url: http://www.gutenberg.org/2009/agents/33260
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drachmann, A. B. (Anders Björn)
+    aliases:
+    - Drachmann, A. B. (Anders Bjorn)
+    - Drachmann, Anders Björn
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '33258'
+    url: http://www.gutenberg.org/2009/agents/33258
+  editor:
+    agent_name: Hill, George Francis, Sir
+    alias: Hill, G. F. (George Francis), Sir
+    birthdate: 1867
+    deathdate: 1948
+    gutenberg_agent_id: '33261'
+    url: http://www.gutenberg.org/2009/agents/33261
+description: ''
+gutenberg_issued: '2009-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28312'
+  lccn: '23008701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Religion'
+- !lcsh 'Rome -- Religion'
+- !lcsh 'Atheism -- History'
+- !lcc 'BL'
+title: Atheism in Pagan Antiquity
+url: http://www.gutenberg.org/ebooks/28312
